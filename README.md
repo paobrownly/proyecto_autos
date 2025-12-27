@@ -20,3 +20,6 @@ Esta aplicación web fue desarrollada con Streamlit y permite visualizar datos d
 - notebooks/EDA.ipynb: análisis exploratorio
 - requirements.txt: dependencias del proyecto
 - README.md: breve descripción del proyecto
+
+## Enlace a la aplicación
+https://proyecto-autos.onrender.com
